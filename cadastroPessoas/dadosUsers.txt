@@ -1,0 +1,6 @@
+Brenda;22
+Kaua ;21
+Chris;3
+Kiara;12
+bibi;4
+Pablo;34
